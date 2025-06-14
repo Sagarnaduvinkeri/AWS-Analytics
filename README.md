@@ -47,8 +47,7 @@ This project highlights the ease, power, and efficiency of building cloud-native
 
 ## 🖼️ Workflow Diagram
 
-> *(Insert your architecture diagram here)*  
-> Replace this line with the image once uploaded to your repository.
+> ![Workflow Diagram](Workflow-Diagram.png) 
 
 ---
 
